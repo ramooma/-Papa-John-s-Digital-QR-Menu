@@ -19,8 +19,8 @@ I designed and developed a digital menu website accessible via a **QR code** pla
 
 ## 🖥️ Preview
 <img width="2527" height="1294" alt="Screenshot 2026-05-06 164940" src="https://github.com/user-attachments/assets/7dbf861d-2243-4a5d-95ea-427017b2f2b8" />
-
-
+<br>
+<br>
 <img width="1220" height="1009" alt="Screenshot 2026-05-06 164958" src="https://github.com/user-attachments/assets/1f5ec715-b2d7-42b3-9f06-377fff37a8b9" />
 
 
