@@ -26,7 +26,7 @@ I designed and developed a digital menu website accessible via a **QR code** pla
 
 
 ## 🌐 Live Demo
-[Click here to view the live menu]([#](https://ramooma.github.io/-Papa-John-s-Digital-QR-Menu/)) 
+[Click here to view the live menu](https://ramooma.github.io/-Papa-John-s-Digital-QR-Menu/) 
 
 ---
 *This project was my first step into using web development to solve real-world business challenges.*
